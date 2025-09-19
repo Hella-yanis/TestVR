@@ -1,13 +1,7 @@
 #DNMADE2
 
-##TestVR
+##WEBVR
 
-* [yanis texture](https://hella-yanis.github.io/TestVR/demoVR.html)
-* [yanis lab](https://hella-yanis.github.io/TestVR/lab.html)
-
-
-
-
-
-
+* [yanis texture]()
+* [yanis lab]()
 
